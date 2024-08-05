@@ -5,7 +5,7 @@
 ## Installation
 
 ```
-git clone https://github.com/Galkurta/LostDog-BOT
+git clone https://github.com/himiko3939/lostdog.git
 ```
 
 ```
