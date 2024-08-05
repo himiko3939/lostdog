@@ -1,6 +1,6 @@
 # lostDog BOT
 - Support multi account
-- Register Lost Gods [here](https://t.me/lost_dogs_bot/lodoapp?startapp=ref-u_6944804952__s_574068)
+- Register Lost Gods [here](https://t.me/lost_dogs_bot/lodoapp?startapp=ref-u_1375235586__s_4)
 
 ## Installation
 
